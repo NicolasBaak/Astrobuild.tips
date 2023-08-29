@@ -2,8 +2,9 @@
 title: "Hello Astro"
 pubDate: 2024-05-07
 description: "  Hello this is my firts recommendation"
-image:
+image: https://api.lorem.space/image/fashion?w=640&h=480&r=3027
 tags: ["astro", "javascript"]
+layout: "../../layouts/Posts.astro"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus sem eu justo gravida hendrerit. Vivamus sit amet arcu dolor. Nulla porta condimentum nibh in congue. Fusce rhoncus eget sapien nec lobortis. Ut malesuada erat quis erat gravida condimentum. Donec eu congue dui. Nulla lorem lectus, tempor eget venenatis sed, facilisis at felis.
